@@ -1,3 +1,3 @@
 I'm just a silly little guy.
 
-Python / C / Shell
+Python / C / Shell enjoyer.
