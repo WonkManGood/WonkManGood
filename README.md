@@ -1,3 +1,1 @@
-🍄🍄🍄 •၊၊||၊|။||||။၊|။|||
-
-Python / C / Shell enjoyer.
+Low-level / Embedded Hardware enjoyer.
